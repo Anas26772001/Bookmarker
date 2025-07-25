@@ -6,6 +6,8 @@ This is a simple client-side web application that helps you save and manage your
 
 ###### 🌐 visit the website: [BookMarker Live Demo](https://anas26772001.github.io/Bookmarker/)
 
+## 🚀 Preview : 
+
 ## 🚀 Features
 
 * **Add New Bookmarks:** Easily add a website's name and its corresponding URL.
