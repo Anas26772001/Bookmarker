@@ -11,7 +11,9 @@
 
 .mainSec {
     background-color: #F7ECDE;
+    padding-block: 1.5625rem;
     min-height: 100vh;
+    /* height: 100vh; */
 }
 
 #titleSec {
@@ -77,6 +79,7 @@
     min-width: 300px;
     max-width: 500px;
 }
+
 .redSpan,
 .greenSpan,
 .blueSpan {
@@ -96,6 +99,7 @@
     font-weight: 300;
     font-family: var(--site-head);
 }
+
 i {
     cursor: pointer
 }
